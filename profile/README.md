@@ -48,5 +48,3 @@ Join us on this exciting journey to decentralize and democratize AI model traini
 
 ![DeCenter AI - Revolutionizing AI Model Training](https://github.com/DeCenter-AI/.github/assets/131058062/c39ed1ce-14d8-4f94-8059-6d5f3a633962)
 
-ghty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
