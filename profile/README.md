@@ -37,7 +37,7 @@ We welcome contributions from the community! Join our open-source project and he
 
 Stay up-to-date with the latest developments and news from DeCenter AI:
 
-- [Website](https://decentera.comi)
+- [Website](https://decenterai.com)
 - [Twitter](https://twitter.com/decenteraicom)
 - [LinkedIn](https://www.linkedin.com/company/decenter-ai)
 - [Email](mailto:admin@decenterai.com)
