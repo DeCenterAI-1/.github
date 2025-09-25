@@ -1,11 +1,9 @@
-## Hi there 👋
+## Hi there 👋 Welcome to DeCenter AI
 
-# Welcome to DeCenter AI
+# DeCenter AI — AI Studio for Everyone
 
 ![DeCenter AI Logo](https://github.com/DeCenter-AI/.github/assets/131058062/7fceb64d-f875-4d08-b13e-aff561aab234)
 
-
-**DeCenter AI — AI Studio for Everyone**
 
 ## About Us
 DeCenter AI is an AI Studio that connects users to a network of expert AI tools through a unified, easy-to-use interface. Powered by a Super Agent that automatically selects the best-performing model for every prompt, the Studio delivers pro-level results for just 1 cent per inference—no subscriptions, no tiers, no lock-in.
@@ -45,6 +43,27 @@ DeCenter AI is an AI Studio that connects users to a network of expert AI tools 
 - **Scales With You**: From first call to global deployment—automatic scaling, no extra complexity.
   
 - **Built for Everyone**: No-code surface, API-native for developers, and a simple, transparent pricing model.
+
+- ## 🚀 Traction
+- **4M+** AI inferences processed  
+- **28M+** on-chain transactions secured  
+- **400+** models and agents integrated into the network  
+
+---
+
+## ⚡ How It Works (Simple)
+1. **Send a prompt** via [AI Studio](#) or API.  
+2. The **Super Agent** automatically selects and routes to the best model.  
+3. **Get curated, high-quality output**—pay just **$0.01 per inference**.
+
+---
+
+## 🛠️ Getting Started
+1. **Generate an API key** in the [AI Studio](#).  
+2. **Add credits** – only **$0.01 per inference**.  
+3. **Run your first prompt**  
+   - Call the API, or  
+   - Use the **no-code Studio** for a quick start.
 
 
 ## Get Involved
