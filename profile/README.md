@@ -14,7 +14,7 @@ DeCenter AI is an AI Studio that connects users to a network of expert AI tools 
 
 - **Unified AI Studio**: Access hundreds of specialized models and tools in one place—no juggling apps or APIs.
 
-- **Super Agent Routing:**: Every prompt is matched to the most effective model automatically, so results are consistently strong.
+- **Super Agent Routing**: Every prompt is matched to the most effective model automatically, so results are consistently strong.
 
 - **No Cost Entry and Near-Zero Cost**: Transparent pay-as-you-go pricing at 1 cent per inference—affordable at any scale.
 
@@ -24,9 +24,32 @@ DeCenter AI is an AI Studio that connects users to a network of expert AI tools 
 
 - **Data Privacy & Security**: Enterprise-grade data handling with modern privacy safeguards and auditable operations.
 
+## Who It’s For
+
+- **Builders**: Train, deploy, and run AI agents and models for apps and platforms—without infrastructure overhead.
+
+- **Platform Operators**: Add AI capabilities, monetize models, and manage analytics from a single hub.
+
+- **Service providers**: Offer industry-specific AI services via ready-to-use APIs with built-in privacy and compliance.
+
+- **Curious Users**: Get professional results from AI with simple prompts and no setup.
+
+## Key Benefits
+
+- **Faster Time-to-Value**: Train, deploy, and run AI agents and models for apps and platforms—without infrastructure overhead.
+
+- **Lower Total Cost**: 50x cost reduction versus traditional AI platforms.
+
+- **Always the Best Fit**: Model selection and orchestration handled automatically by the Super Agent.
+
+- **Scales With You**: From first call to global deployment—automatic scaling, no extra complexity.
+  
+- **Built for Everyone**: No-code surface, API-native for developers, and a simple, transparent pricing model.
+
+
 ## Get Involved
 
-We welcome contributions from the community! Join our open-source project and help shape the future of AI model training. Contribute code, report issues, or participate in discussions.
+DeCenter AI is building an open, collaborative ecosystem. Contribute models, deploy agents, build integrations, or help shape the product through feedback and discussions.
 
 - [Contribute](https://github.com/DeCenter-AI/decenter-ai.streamlit.app/blob/main/README.md#contributors)
 - [Report an Issue](https://github.com/DeCenter-AI/decenter-ai.streamlit.app/issues/new?assignees=&labels=bug&projects=&template=00-bug.md&title=bug%3A++)
