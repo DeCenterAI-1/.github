@@ -5,25 +5,24 @@
 ![DeCenter AI Logo](https://github.com/DeCenter-AI/.github/assets/131058062/7fceb64d-f875-4d08-b13e-aff561aab234)
 
 
-**Introducing DeCenter AI**: Decenteralized AI Model Training Infrastructure
+**DeCenter AI — AI Studio for Everyone**
 
 ## About Us
-
-DeCenter AI is a groundbreaking project focused on transforming the landscape of AI model training infrastructure. Our mission is to make AI model training faster, more affordable, and accessible to all. With a deep commitment to decentralization and democratization, we're pioneering a decentralized parallel training infrastructure that empowers data scientists, machine learning engineers, AI specialists, and researchers to collaborate seamlessly.
+DeCenter AI is an AI Studio that connects users to a network of expert AI tools through a unified, easy-to-use interface. Powered by a Super Agent that automatically selects the best-performing model for every prompt, the Studio delivers pro-level results for just 1 cent per inference—no subscriptions, no tiers, no lock-in.
 
 ## What We Offer
 
-- **Faster AI Model Training**: Our platform harnesses the power of decentralized parallel training, reducing AI model training time from days to minutes.
+- **Unified AI Studio**: Access hundreds of specialized models and tools in one place—no juggling apps or APIs.
 
-- **Cost-Efficiency**: We're dedicated to lowering the costs associated with AI model training, making it accessible for individuals and businesses of all sizes.
+- **Super Agent Routing:**: Every prompt is matched to the most effective model automatically, so results are consistently strong.
 
-- **Data Privacy and Security**: We prioritize safeguarding sensitive data during AI model training, ensuring unauthorized access and data leaks are prevented.
+- **No Cost Entry and Near-Zero Cost**: Transparent pay-as-you-go pricing at 1 cent per inference—affordable at any scale.
 
-- **Easy-to-Use Interface**: Our intuitive model deployment user interface accelerates the process and opens up AI model training to a broader audience.
+- **Chain, Compute, and Platform Agnostic**: Works across clouds, chains, and platforms with clean, API-native integrations.
 
-- **Customization**: Tailor your AI model training to your project's specific requirements, whether simple or complex.
+- **Abstracted Workflows & Payments**: Complexity removed by design; integrate, orchestrate, and pay without friction.
 
-- **Automated Training**: Enhance computational resource management and productivity by automating AI model training at optimal times.
+- **Data Privacy & Security**: Enterprise-grade data handling with modern privacy safeguards and auditable operations.
 
 ## Get Involved
 
@@ -39,12 +38,13 @@ Stay up-to-date with the latest developments and news from DeCenter AI:
 
 - [Website](https://decenterai.com)
 - [Twitter](https://twitter.com/decenteraicom)
+- [Telegram Ann](https://t.me/decenteraicom)
 - [LinkedIn](https://www.linkedin.com/company/decenter-ai)
-- [Email](mailto:admin@decenterai.com)
+- [Email](mailto:admin@decenterai.com) 
 
-## Let's Revolutionize AI Model Training Together
+## Let’s build the future of AI, together—one prompt at a time.
 
-Join us on this exciting journey to decentralize and democratize AI model training. We believe in a future where AI is accessible to all and can drive innovation across various industries.
+DeCenter AI is building a unified, human-centered AI Studio that democratizes access to specialized tools, abstracts complexity, and empowers the 97% of users who’ve been priced out or left behind.
 
-![DeCenter AI - Revolutionizing AI Model Training](https://github.com/DeCenter-AI/.github/assets/131058062/c39ed1ce-14d8-4f94-8059-6d5f3a633962)
+![DeCenter AI - Unifying the AI experience](https://github.com/DeCenter-AI/.github/assets/131058062/c39ed1ce-14d8-4f94-8059-6d5f3a633962)
 
